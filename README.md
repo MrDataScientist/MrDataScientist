@@ -81,8 +81,8 @@ I’m building toward becoming an **Enterprise AI / Cloud Solution Architect**, 
 - 🇬🇧 **English** — Fluent
 - 🇫🇷 **French** — Fluent
 - 🇲🇦 **Arabic** — Fluent
-- 🇩🇪 **German** — B2 in progress
-- 🇰🇷 **Korean** — Basic / learning
+- 🇩🇪 **German** — B2
+- 🇰🇷 **Korean** — Learning
 
 ---
 
